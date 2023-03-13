@@ -8,4 +8,4 @@ This is a rewrite of my original ChatGPT clone. Includes many new features such 
 <img src="https://i.ibb.co/4KJ2jhv/localhost-3000-login-page.png" />
 
 # Landing Page - GPT
-<img src="https://i.ibb.co/0nWfH20/cad-gpt-vercel-app-2.png" />
+<img src="https://i.ibb.co/grbF60J/0c8bb3ce40b9cfdaa119e145ced1031f.png" />
